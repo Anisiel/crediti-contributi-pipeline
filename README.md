@@ -1,0 +1,1 @@
+# crediti-contributi-pipeline
